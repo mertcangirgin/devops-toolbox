@@ -1,0 +1,15 @@
+services:
+  nginx:
+    image: nginx:alpine
+    container_name: lab-nginx
+    ports:
+      - "8081:80"
+    restart: unless-stopped
+    read_only: true
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    tmpfs:
+      - /var/cache/nginx
+      - /var/run
