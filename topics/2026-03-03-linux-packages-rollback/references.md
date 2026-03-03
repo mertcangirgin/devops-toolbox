@@ -1,0 +1,6 @@
+# References — Package Rollback: apt pinning, hold, snap vs deb notes
+
+- Official docs:
+  - ...
+- Related:
+  - ...
