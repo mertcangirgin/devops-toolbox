@@ -1,0 +1,6 @@
+# References — K8s Basics for DevOps: kubectl triage mental model (light)
+
+- Official docs:
+  - ...
+- Related:
+  - ...
