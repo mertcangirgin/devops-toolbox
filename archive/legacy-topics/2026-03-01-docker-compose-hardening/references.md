@@ -1,6 +1,0 @@
-# References — Docker Compose Hardening Checklist
-
-- Official docs:
-  - ...
-- Related:
-  - ...

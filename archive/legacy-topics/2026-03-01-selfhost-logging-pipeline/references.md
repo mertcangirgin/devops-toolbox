@@ -1,6 +1,0 @@
-# References — Logging Pipeline: journald basics → ship → search minimal
-
-- Official docs:
-  - ...
-- Related:
-  - ...
