@@ -1,0 +1,6 @@
+# References — Linux Perf Triage: top/htop, pidstat, iostat, vmstat (Real Incidents)
+
+- Official docs:
+  - ...
+- Related:
+  - ...
