@@ -1,0 +1,6 @@
+# References — Self-host Reverse Proxy: TLS, headers, auth gateway
+
+- Official docs:
+  - ...
+- Related:
+  - ...
