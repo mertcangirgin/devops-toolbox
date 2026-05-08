@@ -1,0 +1,6 @@
+# References — CI/CD Secrets Hardening: Masking, Rotation, Least Privilege
+
+- Official docs:
+  - ...
+- Related:
+  - ...
